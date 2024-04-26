@@ -8,3 +8,5 @@ git commit -m "update"
 git push -u origin master
 
 
+main으로 하고 싶을 때
+git branch -m main
