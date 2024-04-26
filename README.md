@@ -1,2 +1,2 @@
-# flutter_study
-flutter_study
+#### 개인 프로젝트를 위한 앱개발 공부자료
+flutter 토이 프로젝트 시작 
