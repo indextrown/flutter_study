@@ -17,7 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## ctrl + shift + p눌러서 settings.json에 아래 코드 추가
-javscript ```
+javscript 
+```
     "editor.codeActionsOnSave": {
         "source.fixAll": "explicit"
     },
